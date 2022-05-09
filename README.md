@@ -1,5 +1,5 @@
 # Google-Foobar
-**My approaches to the Google Foobar problems (in python):  **
+**My approaches to the Google Foobar problems (in python):**  
 Level 1: 100% [==========================================]  
 Level 2:   0% [..........................................]  
 Level 3:   0% [..........................................]  
