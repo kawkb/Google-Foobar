@@ -1,2 +1,7 @@
 # Google-Foobar
-My solution to the google foobar problems in python
+My approaches to the Google Foobar problems (in python);
+Level 1: 100% [==========================================]
+Level 2:   0% [..........................................]
+Level 3:   0% [..........................................]
+Level 4:   0% [..........................................]
+Level 5:   0% [..........................................]
